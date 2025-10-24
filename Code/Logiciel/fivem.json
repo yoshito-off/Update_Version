@@ -1,0 +1,9 @@
+{
+  "version": "1.1.0",
+  "description": [
+    "🚀 Ajout du système de mise à jour automatique",
+    "🌍 Nouvelle animation de la Terre ASCII au démarrage",
+    "⚙️ Amélioration de la navigation dans les menus",
+    "🐞 Correction de plusieurs bugs mineurs"
+  ]
+}
